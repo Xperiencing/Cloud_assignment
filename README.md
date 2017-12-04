@@ -7,3 +7,5 @@ commands one by one in a logical order (will add containers and images first bef
 deleting any). The server is being run on localhost on port 8080.
 
 External IP of VM: 35.205.170.234 
+
+You tube video: https://youtu.be/fObSIrjjhFE
